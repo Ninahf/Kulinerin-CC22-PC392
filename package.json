@@ -1,0 +1,17 @@
+{
+  "name": "kuliner-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ninana",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
