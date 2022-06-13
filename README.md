@@ -7,6 +7,7 @@ The application that we want to make is an application that provides information
 
 Planned Execution :
 We wanted to make it easier for people to search for Indonesian traditional food recipes and this app can also identify the ingredients according to the recipe by capturing on your smartphone camera. You can also save a list of your favorite recipes in the app.
+
 Conclusion :
 We hope this project will act as a starting point for future works to bring convenience to Indonesian citizens, especially people who do not know specific ingredients for Indonesian traditional food recipes.
 
