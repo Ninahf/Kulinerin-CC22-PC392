@@ -1,0 +1,162 @@
+<resources>
+    <string name="powered_by">KELINERINKUY</string>
+    <string name="Teks_Rekomendasi">Rekomendasi Makanan Daerah</string>
+    <string name="app_name">Kulinerin</string>
+    <string name="copyrigt">Copyright @bangkit 2022 - C22-PC32</string>
+    <string name="version">Version 1.0.0</string>
+    <string-array name="lokasi">
+        <item>Padang, Sumatra Utara</item>
+        <item>Yogyakarta</item>
+        <item>Maluku</item>
+        <item>Padang, Sumatra Barat</item>
+
+    </string-array>
+
+    <string-array name="name">
+
+        <item>Pempek</item>
+        <item>Gudeg</item>
+        <item>Papeda</item>
+        <item>Rendang</item>
+    </string-array>
+
+
+    <string-array name="avatar">
+        <item>@drawable/pempek</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/papeda</item>
+        <item>@drawable/rendang</item>
+
+    </string-array>
+
+    <string-array name="resep">
+        <item>
+                    Bahan:\n
+        - 500 gr daging tenggiri\n
+        - 500 gr tepung sagu\n
+        - 7 siung bawang putih\n
+        - 1/2 sdt lada bubuk\n
+        - Garam dan penyedap sesuai selera\n
+        - 350 ml air \n
+                    \n\n
+
+        Cuko hitam:
+        - 300 gr gula aren \n
+        - 7 siung bawang putih, haluskan\n
+        - Asam Jawa\n
+        - 500 ml air\n
+        - Garam\n
+        \n\n
+        Cara membuat:\n
+        1. Haluskan daging tenggiri dan bawang putih, tuang ke dalam wadah.\n
+        2. Campurkan garam, lada, penyedap, dan air.\n
+        3. Tambahkan sagu sedikit demi sedikit sampai adonan bisa dibentuk.\n
+        4. Bentuk sesuai selera. Didihkan air, rebus pempek sampai matang.\n
+        5. Masak semua bahan cuko sampai matang, kemudian saring.\n
+        Cuko yang sudah diinapkan akan terasa lebih kental.\n</item>
+        <item>Bahan :\n
+        1 kg nangka muda\n
+        5 butir telur ayam rebus, kupas\n
+        2 lembar daun salam\n
+        3 lembar daun jeruk\n
+        3 cm lengkuas, memarkan\n
+        120 g gula Jawa yang cokelat tua\n
+        1.5 liter santan sedang\n
+        500 ml santan kental\n\n
+        Bumbu:\n
+        8 butir bawang merah\n
+        5 siung bawang putih\n
+        5 butir kemiri\n
+        1 sdm ketumbar\n
+        1 potong terasi\n
+        1/4 sdt jintan\n
+        2 sdt garam\n\n
+        Pelengkap:\n
+        Sambal goreng krecek\n
+        Opor ayam\n
+        Sambal bajak\n
+        Cara Membuat :\n
+        Potong nangka muda berbentuk dadu besar. Rebus nangka muda dalam air atau air kelapa tua secukupnya hingga lunak. Angkat dan tiriskan nangka muda.\n
+        Bumbu Halus: Haluskan semua bahan bumbu dengan blender atau ulekan hingga halus benar.\n
+        Masukkan nangka muda dan telur ke dalam panci. Tuangi santan, masukkan bumbu halus, daun salam, daun jeruk, lengkuas dan gula merah.\n
+        Masak dengan api sedang hingga bumbu meresap dan kuahnya susut.\n
+        Tuangkan santan kental. Masak dengan api hingga kuah benar-benar susut. Matikan api.\n
+        Sajikan gudeg dengan pelengkapnya.\n\n
+        Tips:\n
+        1. Untuk membuat gudeg yang enak pilih jenis nangka muda yang merah. Teksturnya kokoh dengan warna agak cokelat kemerahan.\n
+
+        2. Untuk mendapatkan warna merah cokelat, bisa dipakai daun jati atau daun jambu biji yang ditaruh di bagian bawah panci.\n
+        3. Jika suka gudeg kering, masak gudeg hingga airnya benar-benar habis atau hampir kering.\n
+        4. Untuk sisa gudeg bisa disimpan dalam wadah bertutup dan taruh di lemari es. Hangatkan kembali dengan cara dikukus.\n
+        </item>
+        <item>Bahan:\n
+        - 500 gr ikan tongkol, potong lalu kucurkan jeruk nipis\n\n
+        Bumbu halus:\n
+        - 10 siung bawang merah\n
+        - 7 siung bawang putih\n
+        - 2 buah kemiri\n
+        - 2 ruas jahe\n
+        - 2 telunjuk kunyit\n
+        - 2 cabai rawit (pedas menyesuaikan)\n
+        - 2 cabai merah keriting\n
+        - 1 cabai merah besar\n
+        - Merica bubuk secukupnya\n\n
+        Bumbu cemplung:\n
+        - Lengkuas, geprek\n
+        - 2 buah serai, geprek\n
+        - 5 buah daun jeruk\n
+        - 2 buah daun salam\n
+        Tambahan:\n
+        - 3 biji asam Jawa\n
+        - 1 buah tomat, potong\n
+        - 3 ikat kemangi, siangi\n
+        - Perasan jeruk nipis secukupnya\n
+        - Gula dan garam\n\n
+        Bahan papeda:\n
+        - 300 gr sagu\n
+        - 900 ml air\n\n
+        Cara memasak:\n
+        1. Tumis bumbu halus dan bumbu cemplung dengan sedikit minyak, setelah matang, masukkan ikan, aduk-aduk. Tuang air. 2. Setelah mendidih dan ikan matang, masukkan asam Jawa, tomat, kemangi, gula dan garam.\n
+        3. Terakhir masukkan perasan jeruk nipis. Tes rasa. Matikan api.\n\
+        4. Untuk membuat papeda; 300 gr sagu, dicairkan dengan air masak sekitar 50 ml.\n
+        5. Didihkan air kurang lebih 900 ml.\n
+        6. Setelah mendidih, masukkan secara perlahan ke adonan sagu sambil diaduk secara cepat hingga matang dan kekentalan yang diinginkan.\n
+        7. Campurkan papeda ke kuah kuning.\n</item>
+        <item>Bahan :
+        1 kg daging sapi\n
+
+        3 butir kelapa, diambil santan kental dan santan encernya\n
+        4 lembar daun jeruk\n
+        3 batang serai, memarkan\n
+        4 butir asam kandis\n
+        100ml minyak goreng\n
+        5 gram garam\n
+        Bumbu rendang daging sapi 1 Kg:\n
+
+        -60 gram bawang merah\n
+        -50 gram bawangputih\n
+        -250 gram cabai merah besar\n
+        -100 gram lengkuas\n
+        -50 gram kemiri\n
+        -2 gram cengkeh\n\n
+        Cara Membuat rendang sapi :\n
+        1. Haluskan semua bahan Bumbu dengan diulek atau diblender.\n
+
+        2. Tumis bumbu dengan sedikit minyak goreng hingga wangi.\n
+
+        3. Masukkan batang serai, daun jeruk, asam kandis dan garam, aduk rata.\n
+
+        4. Tuangi santan dan dididihkan, masukkan daging.\n
+
+        5. Masak dengan api kecil selama beberapa jam sampai daging empuk dan bumbu kecoklatan sesuai selera.\n
+
+        </item>
+
+    </string-array>
+
+    <style name="splash">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

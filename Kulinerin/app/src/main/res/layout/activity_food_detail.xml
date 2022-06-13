@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/detail_users"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FoodDetail">
+
+
+
+    <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="410dp"
+            android:layout_height="129dp"
+            android:layout_marginTop="4dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="230dp"
+            android:layout_height="36dp"
+            android:fontFamily="sans-serif-black"
+            android:hint="Nama Makanan"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            app:layout_constraintBottom_toTopOf="@+id/tvUsername"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView"
+            app:layout_constraintVertical_bias="0.169" />
+
+        <TextView
+            android:id="@+id/tvUsername"
+            android:layout_width="177dp"
+            android:layout_height="22dp"
+            android:layout_marginBottom="528dp"
+            android:hint="Asal Makanan"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView"
+            app:layout_constraintVertical_bias="0.77" />
+
+    <ScrollView
+        android:layout_width="397dp"
+        android:layout_height="575dp"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:scrollbars="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/tvResep"
+            android:layout_width="474dp"
+            android:layout_height="580dp"
+            android:background="@color/fieldcolor"
+            android:bottomLeftRadius="10dp"
+            android:bottomRightRadius="10dp"
+            android:fontFamily="sans-serif-black"
+            android:scrollbars="vertical"
+            android:text="TextView"
+            android:textColor="@color/black"
+            android:topLeftRadius="10dp"
+            android:topRightRadius="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvUsername"
+            app:layout_constraintVertical_bias="0.0" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
